@@ -1,5 +1,3 @@
-# 📄 README.md
-
 ## 🔍 Sample Regex Expressions for Natural Language Command Extraction
 
 This file contains 40 regex expressions for extracting command arguments from user input in NLP-based applications.
